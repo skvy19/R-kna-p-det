@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+div{
+    font-weight: bold;
+}
+
+input{
+    width: 100px;
+    border-radius: 1px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+select{
+    background-color: lightgrey;
+    width: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    font-weight: bold;
+    background-color:lightgrey;
+    border-radius: 1px;
+}
